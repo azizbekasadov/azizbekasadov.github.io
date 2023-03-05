@@ -2,7 +2,7 @@
 ## My name is Azizbek
 
 - 📱 I’m Mobile Software Engineer.
-- 🤯 Developing for Android since 2020 and iOS since 2022.
+- 🤯 Developing for iOS since 2016 and Android since 2021.
 - 💻 Currently working on very cool projects.
 - 🌱 My Tech Stack: Swift/Objective-C, Kotlin/Java, C, C++, Qt C++, Objective-C++, UIKit/SwiftUI, JetPack Compose.
 - 📫 I'm available to answer your questions related to programming on any platform. Feel free to contact me.
